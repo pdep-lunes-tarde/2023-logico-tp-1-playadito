@@ -10,8 +10,8 @@
 - Nombre y apellido:
 - Legajo:
 
-- Nombre y apellido:
-- Legajo:
+- Nombre y apellido: Abril Dominguez Nimo
+- Legajo: 2079732
 
 - Nombre y apellido:
 - Legajo:
