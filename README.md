@@ -2,19 +2,19 @@
 
 ## Tareas
 
-- [ ] Aceptar el assignment y clonar el repositorio con el ejercicio
-- [ ] Reemplazar nombre, apellido y legajo en este archivo
+- [x] Aceptar el assignment y clonar el repositorio con el ejercicio
+- [x] Reemplazar nombre, apellido y legajo en este archivo
 
 - Grupo:
 
-- Nombre y apellido:
-- Legajo:
+- Nombre y apellido: Jiun Ming Hsu
+- Legajo: 2090260
 
 - Nombre y apellido: Abril Dominguez Nimo
 - Legajo: 2079732
 
-- Nombre y apellido:
-- Legajo:
+- Nombre y apellido: Thomas Denholm
+- Legajo: 2133076
 
 ## Pre-requisitos
 
